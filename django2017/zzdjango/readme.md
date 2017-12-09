@@ -131,3 +131,6 @@ urlpatterns = [
     url(r'^hello/$',views.hello),     # 这里要注意一定要有 /
 ]
 ```
+
+### http://localhost:8000/blog/
+### http://localhost:8000/blog/hello/
