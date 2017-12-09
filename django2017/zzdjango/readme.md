@@ -1,5 +1,7 @@
 环境：win7、python3.6.3、django2.0
 
+教程：https://www.imooc.com/learn/790
+
 # django 学习笔记
 
 #### 例如： 创建项目 zzdjango，创建应用blog
