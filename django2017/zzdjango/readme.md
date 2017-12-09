@@ -135,4 +135,12 @@ urlpatterns = [
 ### http://localhost:8000/blog/
 ### http://localhost:8000/blog/hello/
 
+
+## 开发第一个 templates
 注意：在应用里建 templates文件夹时，要在 templates下面，再建一层目录，目录名要与该应用同名
+
+在APP的根目录下创建名为 templates 的目录
+
+在该目录下创建HTML文件
+
+在views.py 中返回 render()
