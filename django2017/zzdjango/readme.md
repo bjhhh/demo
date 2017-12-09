@@ -134,3 +134,5 @@ urlpatterns = [
 
 ### http://localhost:8000/blog/
 ### http://localhost:8000/blog/hello/
+
+注意：在应用里建 templates文件夹时，要在 templates下面，再建一层目录，目录名要与该应用同名
